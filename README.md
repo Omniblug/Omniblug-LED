@@ -39,7 +39,7 @@ Una vez que vemos los led de color verde hemos terminado con la configuración d
 
 Por último nos queda instalar la aplicación Omniblug en nuestro dispositivo Android.
 
-OmniblugAccedemos a Google Play y la instalamos.
+Accedemos a Google Play y la instalamos.
 
 Una vez que abrimos la aplicación se nos pedirá conectar con nuestro dispositivo bluetooth, realizamos un escaneo y elegimos Omniblug para conectarnos.
 
