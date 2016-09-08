@@ -44,7 +44,6 @@
      
     void loop() 
     {          
-      
       while (Serial.available() > 0) {
         
         accion = Serial.parseInt();
@@ -76,10 +75,7 @@
           accion=0;
           color(0,255,0);
         }  
-        
       }
-      
-     
     }
     
     void programer(int pin){
@@ -99,7 +95,6 @@
     }
     
     
-     
     void color(int rojo, int verde, int azul){
         
         if(puerto==1){
@@ -121,7 +116,6 @@
           analogWrite(ledAzul2, azul);
         
         }
-        
     }
      
     //Fin
