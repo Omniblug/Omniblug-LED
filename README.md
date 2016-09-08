@@ -25,7 +25,7 @@ Material necesario
 6. Software: Arduino
 7. APP Omniblug (https://play.google.com/store/apps/details?id=com.omniblug)
 
-Puedes ver el circuito de conexionado aqui (http://omniblug.com/images/proyectos/omniblug.jpg)
+Puedes ver el circuito de conexionado aqui (http://www.omniblug.com/img/blog/omniblug-led/omniblug-esquema.jpg)
 
 
 Utilización
