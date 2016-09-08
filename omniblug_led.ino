@@ -4,7 +4,7 @@
       WWW.OMNIBLUG.COM - info@omniblug.com
       V01R00
      ---------------------------------------------
-    */
+*/
      
     //librerias
    #include <EEPROM.h>
