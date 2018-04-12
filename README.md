@@ -1,4 +1,4 @@
-Omniblug-LED
+Omniblug Bluetooth Control
 ============
 
 ![Alt text](http://www.omniblug.com/img/blog/omniblug-led/opciones.jpg "Omniblug Bluetooth")
